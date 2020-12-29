@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -x; #echo on
+
 # Intialize script duration in seconds
 SECONDS=0;
 
